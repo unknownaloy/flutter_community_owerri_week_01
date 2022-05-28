@@ -1,0 +1,4 @@
+enum IncomeOrExpense {
+  incomes,
+  expenses,
+}
