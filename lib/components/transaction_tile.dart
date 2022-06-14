@@ -20,7 +20,7 @@ class TransactionTile extends StatelessWidget {
         height: 56.0,
         width: 56.0,
         decoration: BoxDecoration(
-          color: Colors.purpleAccent,
+          color: Colors.purple,
           borderRadius: BorderRadius.circular(16.0),
         ),
       ),
